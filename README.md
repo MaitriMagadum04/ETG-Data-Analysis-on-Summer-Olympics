@@ -1,7 +1,9 @@
 # ETG-Data-Analysis-on-Summer-Olympics
+
 ETG-Data Analysis on Summer Olympics.
 
-# Introduction:
+
+# Introduction :
 
 The task given to us was to solve the following questions:
 
@@ -13,3 +15,13 @@ The task given to us was to solve the following questions:
 6. In which year India won First Gold Medal in Summer Olympics ?
 7. Which event is most popular in terms of no. of Players ? (Top 5)
 8. Which Sport is having most no. of Female Gold Medalists ? (Top 5)
+
+
+# About Project :
+
+The raw data of Summer Olympics was given in CSV File. Using Data Analysis we had to analyze the data and Plot the Graph for given Questions. I used Pandas ,DataFrame and some inbuilt Functions like "groupby" to solve these Questions.
+
+
+# About me :
+
+Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas.
