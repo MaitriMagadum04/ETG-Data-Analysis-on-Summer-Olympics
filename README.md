@@ -19,7 +19,7 @@ The task given to us was to solve the following questions:
 
 # About Project :
 
-The raw data of Summer Olympics was given in CSV File. Using Data Analysis we had to analyze the data and Plot the Graph for given Questions. I used Pandas ,DataFrame and some inbuilt Functions like "groupby" to solve these Questions.
+For Data Analysis, Pandas is utilized. The crude information of the mid year Olympics was shared with us and we need to offer the responses and further plot graph in a few questions. The questions were given by our instructor(questions are as mentioned above). 
 
 
 # About me :
